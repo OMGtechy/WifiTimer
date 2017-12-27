@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WifiTimer</string>
+    <string name="setup_timer_button_text">Setup timer</string>
+</resources>
